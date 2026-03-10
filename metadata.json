@@ -1,0 +1,5 @@
+{
+  "name": "Nur Salah Board",
+  "description": "An attractive Salah time board for LCD displays with automatic prayer times, manual adjustments, and customizable backgrounds.",
+  "requestFramePermissions": ["geolocation"]
+}
